@@ -1,5 +1,5 @@
 //generate html
-const generateHTML = require('./src/generateHTML');
+//const generateHTML = require('./src/generateHTML');
 
 //node
 const fs = require('fs');

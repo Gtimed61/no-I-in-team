@@ -281,3 +281,4 @@ generateHTML = (data) => {
     return generateTeam;
 };
 
+module.exports = generateHTML;

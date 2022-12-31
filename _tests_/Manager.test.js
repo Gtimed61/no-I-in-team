@@ -1,4 +1,4 @@
-const Employee = require("../lib/Employee");
+const Manager = require('../lib/Manager');
 
 test("creates a Manager instance", () => {
     const manager = new Manager('George', 13, 'curious1@gmail.com', 100);

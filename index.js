@@ -14,7 +14,7 @@ const Intern = require('./lib/Intern');
 const teamMembers = [];
 
 //prompt for manager
-const Manager = () => {
+const promptManager = () => {
     console.log('Please build your team');
     inquirer.prompt([
         {
@@ -109,7 +109,7 @@ const PromptTeam = () => {
 };
 
 //prompt for engineer
-const Engineer = () => {
+const promptEngineer = () => {
     console.log('Please enter engineer information');
     inquirer.prompt([
         {
@@ -175,7 +175,7 @@ const Engineer = () => {
 };
 
 //prompt for intern
-const Intern = () => {
+const promptIntern = () => {
     console.log('Please enter intern information');
     inquirer.prompt([
         {

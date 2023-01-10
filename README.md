@@ -6,12 +6,18 @@ An application to track and view your team of any kind.  Gives id, email, office
 
 ## Installation
 
+console.table
+express
+inquirer
+mysql2
+
 ## Demo
 
 No demo- incomplete
 
 ## links
 
-GitHub Repo- 
+GitHub Repo- https://github.com/Gtimed61/no-I-in-team.git
+
 
 

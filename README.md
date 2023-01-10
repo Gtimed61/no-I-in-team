@@ -8,6 +8,10 @@ An application to track and view your team of any kind.  Gives id, email, office
 
 ## Demo
 
-## Credit
+No demo- incomplete
 
-## Author
+## links
+
+GitHub Repo- 
+
+
